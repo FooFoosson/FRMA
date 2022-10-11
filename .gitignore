@@ -34,3 +34,6 @@
 # Build and output directories
 build/
 reports/
+
+# Swap files
+*.swp
