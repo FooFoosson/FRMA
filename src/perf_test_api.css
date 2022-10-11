@@ -1,0 +1,36 @@
+body{
+	display:flex;
+	flex-direction:column-reverse;
+}
+
+h3{
+	text-align: center;
+	color: white;
+	padding: 11px;
+	background-color:#7F218B;
+}
+
+table{
+	border-collapse: collapse;
+	width: 100%;
+}
+
+td{
+	text-align: center;
+	vertical-align: center;
+	padding: 6px;
+}
+
+table td{
+	border: 1px solid;
+}
+
+.name{
+	color: white;
+	border-color:black;
+	background-color:green;
+}
+
+.data:hover{
+	background-color: #a5a89c;
+}
