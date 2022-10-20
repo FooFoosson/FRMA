@@ -32,4 +32,4 @@ unsigned long long buzzMilisecRuntime = perf.profile("buzz", &Test::buzz);
 You can also view the generated html page by going into reports/ and opening perf_report.html in your favourite browser.
 ![alt text](https://user-images.githubusercontent.com/112069209/195075493-ce0d9110-3d6d-45fc-a3a6-23102287abfa.png)
 ## Build
-Use add_subdirectory in your own cmake and link the library target **frma**
+Use add_subdirectory in your own cmake and link the library target **frma**.

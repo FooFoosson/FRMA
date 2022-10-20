@@ -1,7 +1,6 @@
 #include "perf_test_api.h"
 #include "perf_test_api_unix.cpp"
 #include "perf_test_api_win.cpp"
-#include <bits/stdc++.h>
 #include <chrono>
 #include <stdio.h>
 
